@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **nicholasmisawo/nicholasmisawo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +17,6 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicholasmisawo&show_icons=true&theme=radical)
 
 ---
