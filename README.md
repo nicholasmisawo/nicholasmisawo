@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 <!-- GitHub Stats -->
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nicholasmisawo&show_icons=true&theme=radical)
+[![Misawo's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicholasmisawo)](https://github.com/nicholasmisawo/github-readme-stats)
 
 ---
