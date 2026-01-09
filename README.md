@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Nicholas Misawo 👋</h1>
 
 <p align="center">
-Cloud-Native • End-to-End Systems • Risk-Based Engineering • AI & Data
+Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • Systems
 </p>
 
 <p align="center">
@@ -20,8 +20,8 @@ Cloud-Native • End-to-End Systems • Risk-Based Engineering • AI & Data
 
 ### 👨‍💻 About Me
 
-I build **cloud-native, end-to-end systems** with a strong focus on **risk-based thinking**, **scalable architecture**, and **data-driven intelligence**.  
-My work spans **AI, data engineering, and production-grade platforms**, from design to deployment.
+I build **cloud-native, end-to-end systems** with a strong focus on **risk-based framework**, **scalable architecture**, and **data-driven intelligence**.  
+My work spans **AI, Data Engineering, Analytics Engineering, Data Science and production-grade platforms**, from design to deployment.
 
 More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://nicholas.misawo.dev/)**
 
