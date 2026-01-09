@@ -16,6 +16,7 @@ Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • System
 </a>
 </p>
 
+![GitHub Card](https://githubcard.com/nicholasmisawo.svg)
 ---
 
 ### 👨‍💻 About Me
