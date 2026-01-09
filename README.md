@@ -11,8 +11,8 @@ Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • System
 <a href="https://github.com/nicholasmisawo">
   <img src="https://img.shields.io/badge/GitHub-nicholasmisawo-181717?style=for-the-badge&logo=github" />
 </a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/nicholas-misawo">
+  <img src="https://img.shields.io/badge/LinkedIn-nicholas--misawo-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
 
@@ -20,8 +20,8 @@ Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • System
 
 ### 👨‍💻 About Me
 
-I build **cloud-native, end-to-end systems** with a strong focus on **risk-based framework**, **scalable architecture**, and **data-driven intelligence**.  
-My work spans **AI, Data Engineering, Analytics Engineering, Data Science and production-grade platforms**, from design to deployment.
+I build **cloud-native, end-to-end systems** with a strong focus on **risk-based frameworks**, **scalable architecture**, and **data-driven intelligence**.  
+My work spans **AI, Data Engineering, Analytics Engineering, Data Science, and production-grade platforms**, from design to deployment.
 
 More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://nicholas.misawo.dev/)**
 
@@ -46,15 +46,15 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 ### 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicholasmisawo&show_icons=true&hide_title=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=nicholasmisawo&show_icons=true&theme=default&hide_title=true&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasmisawo&layout=compact&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasmisawo&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasmisawo&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=nicholasmisawo&theme=default&hide_border=true" />
 </p>
 
 ---
