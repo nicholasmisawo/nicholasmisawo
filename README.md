@@ -1,15 +1,64 @@
-<h1 align="center">Hi 👋, I'm Nicholas Misawo</h1>
-<h3 align="center">Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • Systems</h3>
+<h1 align="center">Hi, I'm Nicholas Misawo 👋</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+Cloud-Native • End-to-End Systems • Risk-Based Engineering • AI & Data
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+<p align="center">
+<a href="https://nicholas.misawo.dev/" target="_blank">
+  <img src="https://img.shields.io/badge/Website-nicholas.misawo.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+<a href="https://github.com/nicholasmisawo">
+  <img src="https://img.shields.io/badge/GitHub-nicholasmisawo-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicholasmisawo&show_icons=true&locale=en&layout=compact" alt="nicholasmisawo" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicholasmisawo&show_icons=true&locale=en" alt="nicholasmisawo" /></p>
+### 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasmisawo&" alt="nicholasmisawo" /></p>
+I build **cloud-native, end-to-end systems** with a strong focus on **risk-based thinking**, **scalable architecture**, and **data-driven intelligence**.  
+My work spans **AI, data engineering, and production-grade platforms**, from design to deployment.
+
+More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://nicholas.misawo.dev/)**
+
+---
+
+### 🛠️ Core Technologies
+
+<p align="left">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/dltHub-dlt-00AEEF?style=flat-square" />
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=nicholasmisawo&show_icons=true&hide_title=true&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasmisawo&layout=compact&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicholasmisawo&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+<b>Building reliable systems that scale — responsibly.</b>
+</p>
