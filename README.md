@@ -46,12 +46,12 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 <!-- Data Platform & Analytics -->
 <img src="https://img.shields.io/badge/Microsoft_Fabric-00B294?style=plastic&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white" />
-<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/dlt-C6D300?style=plastic&logoColor=white" />
 <img src="https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white" />
 
 <!-- Machine Learning & AI -->
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=plastic&logo=mlflow&logoColor=white" />
+<!-- <img src="https://img.shields.io/badge/MLflow-0194E2?style=plastic&logo=mlflow&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_AI_Foundry-5C2D91?style=plastic&logo=microsoft&logoColor=white" />
