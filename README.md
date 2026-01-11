@@ -1,5 +1,4 @@
-<h1 align="center">Hi,👋 I'm Nicholas Misawo,</h1>
-<p align = "center"> Risk and AI Certificate – Global Association of Risk Professionals (GARP) </p>
+<h1 align="center">Hi,👋 I'm Nicholas Misawo </h1>
 
 <p align="center">
 Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • Systems
@@ -20,7 +19,7 @@ Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • System
 
 I design and build **cloud-native, end-to-end systems** that operate reliably at scale, with a strong emphasis on **risk-based engineering, governance and data-driven decision-making**.
 
-My work sits at the intersection of **Applied AI/ML Data Science, Data Engineering, Analytics Engineering and Risk Management**, where I focus on:
+My work sits at the intersection of **Applied AI/ML Data Science, Analytics Engineering, Data Engineering and Risk Management**, where I focus on:
 - Translating complex, real-world problems into **robust, production-grade architectures**
 - Designing **AI, ML and data systems that are explainable, auditable, and resilient**
 - Embedding **risk, controls, and observability** directly into system design—not as afterthoughts
@@ -39,13 +38,15 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 
 <!-- Cloud, Infrastructure & Platform -->
 <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_AI_Foundry-5C2D91?style=flat-square&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
 
 <!-- Data Engineering & Analytics -->
 <img src="https://img.shields.io/badge/dltHub-dlt-00AEEF?style=flat-square" />
 <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
 
 <!-- Machine Learning -->
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
