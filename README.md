@@ -1,4 +1,5 @@
-<h1 align="center">Hi,👋 I'm Nicholas Misawo, Risk and AI Certificate – Global Association of Risk Professionals (GARP) </h1>
+<h1 align="center">Hi,👋 I'm Nicholas Misawo,</h1>
+<p align = "center"> Risk and AI Certificate – Global Association of Risk Professionals (GARP) </p>
 
 <p align="center">
 Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • Systems
