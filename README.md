@@ -59,15 +59,3 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 
 
 ---
-
-### 📊 GitHub Activity
-
-<p align="center">
-<img src="https://githubcard.com/nicholasmisawo.svg?d=wLtyVjlh" />
-</p>
-
----
-
-<p align="center">
-<b>Building reliable systems that scale — responsibly.</b>
-</p>
