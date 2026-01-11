@@ -47,7 +47,7 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 <img src="https://img.shields.io/badge/Microsoft_Fabric-00B294?style=plastic&logo=microsoft&logoColor=white" />
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white" />
 <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/dlt-00AEEF?style=plastic" />
+<img src="https://img.shields.io/badge/dlt-C6D300?style=plastic&logoColor=white" />
 <img src="https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white" />
 
 <!-- Machine Learning & AI -->
