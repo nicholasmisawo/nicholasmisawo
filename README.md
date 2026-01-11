@@ -56,6 +56,3 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_AI_Foundry-5C2D91?style=plastic&logo=microsoft&logoColor=white" />
 </p>
-
-
----
