@@ -63,15 +63,7 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 ### 📊 GitHub Activity
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nicholasmisawo&show_icons=true&theme=default&hide_title=true&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholasmisawo&layout=compact&theme=default&hide_border=true&cache_seconds=86400" />
-</p>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=nicholasmisawo&theme=default&hide_border=true" />
+<img src="https://githubcard.com/nicholasmisawo.svg?d=wLtyVjlh" />
 </p>
 
 ---
