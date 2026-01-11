@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Nicholas Misawo 👋</h1>
+<h1 align="center">Hi, I'm Nicholas Misawo, Risk and AI Certificate Holder (GARP) 👋</h1>
 
 <p align="center">
 Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • Systems
@@ -21,8 +21,8 @@ Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • System
 
 ### 👨‍💻 About Me
 
-I build **cloud-native, end-to-end systems** with a strong focus on **risk-based frameworks**, **scalable architecture**, and **data-driven intelligence**.  
-My work spans **AI, Data Engineering, Analytics Engineering, Data Science, and production-grade platforms**, from design to deployment.
+I build **cloud-native, end-to-end systems** with a strong focus on **risk-based frameworks**, **scalable architecture**, and **data-driven intelligence**.
+My work spans **Applied Artificial Intelligence, Applied Data Science, Data Engineering, Analytics Engineering, and production-grade systems**, from design to deployment.
 
 More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://nicholas.misawo.dev/)**
 
