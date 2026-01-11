@@ -33,7 +33,7 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 
 <p align="left">
 <!-- Foundations -->
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 
 <!-- Cloud, Infrastructure & Platform -->
