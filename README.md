@@ -34,22 +34,25 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 <p align="left">
 <!-- Foundations -->
 <img src = "https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"/>
 
 <!-- Cloud, Infrastructure & Platform -->
-<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=plastic&logo=terraform&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=plastic&logo=microsoftazure&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_Fabric-742774?style=flat-square&logo=microsoft&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white" />
+
 
 <!-- Data Engineering & Analytics -->
+<img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=plastic&logo=apacheairflow&logoColor=white" />
 <img src="https://img.shields.io/badge/dltHub-dlt-00AEEF?style=flat-square" />
-<img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" />
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" />
+<img src="https://img.shields.io/badge/dbt-FF694B?style=plastic&logo=dbt&logoColor=white" />
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=plastic&logo=databricks&logoColor=white" />
 
 <!-- Machine Learning -->
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-0194E2?style=plastic&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
 <img src="https://img.shields.io/badge/Microsoft_AI_Foundry-5C2D91?style=flat-square&logo=microsoft&logoColor=white" />
 </p>
 
