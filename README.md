@@ -54,5 +54,5 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 <!-- <img src="https://img.shields.io/badge/MLflow-0194E2?style=plastic&logo=mlflow&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" />
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_AI_Foundry-5C2D91?style=plastic&logo=microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/Microsoft_Foundry-5C2D91?style=plastic&logo=microsoft&logoColor=white" />
 </p>
