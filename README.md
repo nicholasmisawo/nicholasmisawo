@@ -17,7 +17,7 @@ Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • System
 
 ### 👨‍💻 About Me
 
-I design and build **cloud-native, end-to-end systems** that operate reliably at scale, with a strong emphasis on **risk-based engineering, governance and data-driven decision-making**.
+I design, build, and deploy **cloud-native, end-to-end Data and AI systems** that operate reliably with **predictable outcomes** at scale, with a strong emphasis on **risk-based engineering, governance, and data-driven decision-making**.
 
 My work sits at the intersection of **Data Engineering, Analytics Engineering, Applied AI/ML Data Science, and Risk Management**, where I focus on:
 - Translating complex, real-world problems into **robust, production-grade architectures**
