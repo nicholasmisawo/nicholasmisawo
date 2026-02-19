@@ -19,12 +19,12 @@ Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • System
 
 I design and build **cloud-native, end-to-end systems** that operate reliably at scale, with a strong emphasis on **risk-based engineering, governance and data-driven decision-making**.
 
-My work sits at the intersection of **Applied AI/ML Data Science, Analytics Engineering, Data Engineering and Risk Management**, where I focus on:
+My work sits at the intersection of **Data Engineering, Analytics Engineering, Applied AI/ML Data Science, and Risk Management**, where I focus on:
 - Translating complex, real-world problems into **robust, production-grade architectures**
 - Designing **AI, ML and data systems that are explainable, auditable, and resilient**
 - Embedding **risk, controls, and observability** directly into system design—not as afterthoughts
 
-I operate across the full lifecycle—from **system design and architectural decisions** to **deployment, monitoring, and iteration**—with the goal of building systems that teams can trust, evolve, and scale responsibly.
+I operate across the full application lifecycle — with the goal of building systems that teams can trust, evolve, and scale responsibly.
 
 More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://nicholas.misawo.dev/)**
 
