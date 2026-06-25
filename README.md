@@ -1,14 +1,14 @@
 <h1 align="center">Hi,👋 I'm Nicholas Misawo </h1>
 
 <p align="center">
-Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • Systems
+Applied AI/ML Data Scientist | Generative AI Engineer | Risk & AI (GARP)
 </p>
 
 <p align="center">
 <a href="https://nicholas.misawo.dev/" target="_blank">
   <img src="https://img.shields.io/badge/Website-nicholas.misawo.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/nicholas-misawo">
+<a href="https://www.linkedin.com/in/nicholasmisawo">
   <img src="https://img.shields.io/badge/LinkedIn-nicholas--misawo-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 </p>
@@ -17,14 +17,11 @@ Building • Cloud-Native • End-to-End • Risk-Based • AI & Data • System
 
 ### 👨‍💻 About Me
 
-I design, build, and deploy **cloud-native, end-to-end Data and AI systems** that operate reliably with **predictable outcomes** at scale, with a strong emphasis on **risk-based engineering, governance, and data-driven decision-making**.
+I’m an Applied AI/ML Data Scientist with more than a decade of experience across actuarial, risk, and data analytics. I partner with executives, product leaders, and engineering teams to translate strategic objectives into scalable, secure, and governed data, machine learning, and AI solutions.
 
-My work sits at the intersection of **Data Engineering, Analytics Engineering, Applied AI/ML Data Science, and Risk Management**, where I focus on:
-- Translating complex, real-world problems into **robust, production-grade architectures**
-- Designing **AI, ML and data systems that are explainable, auditable, and resilient**
-- Embedding **risk, controls, and observability** directly into system design—not as afterthoughts
+My expertise spans data and analytics engineering, model development, LLM-enabled applications, MLOps, LLMOps, and responsible AI across the end-to-end AI lifecycle.
 
-I operate across the full application lifecycle — with the goal of building systems that teams can trust, evolve, and scale responsibly.
+My focus is enabling AI adoption in regulated, high-trust environments - bridging business strategy, technical execution, and governance to deliver practical, production-ready solutions.
 
 More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://nicholas.misawo.dev/)**
 
@@ -53,6 +50,4 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 <!-- Machine Learning & AI -->
 <!-- <img src="https://img.shields.io/badge/MLflow-0194E2?style=plastic&logo=mlflow&logoColor=white" /> -->
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=plastic&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=plastic&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Foundry-5C2D91?style=plastic&logo=microsoft&logoColor=white" />
 </p>
