@@ -9,7 +9,7 @@ Applied AI/ML Data Scientist
   <img alt="Website: nicholas.misawo.dev" src="https://img.shields.io/badge/Website-nicholas.misawo.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/nicholasmisawo">
-  <img alt="LinkedIn: nicholas-misawo" src="https://img.shields.io/badge/LinkedIn-nicholas--misawo-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img alt="LinkedIn: nicholasmisawo" src="https://img.shields.io/badge/LinkedIn-nicholasmisawo-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 <a href="https://nicholas.misawo.dev/">
   <img alt="Credentials" src="https://img.shields.io/badge/Credentials-View_all-0A66C2?style=for-the-badge&logo=credly&logoColor=white" />
