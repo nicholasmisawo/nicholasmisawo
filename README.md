@@ -5,13 +5,13 @@ Applied AI/ML Data Scientist
 </p>
 
 <p align="center">
-<a href="https://nicholas.misawo.dev/">
-  <img alt="Website: nicholas.misawo.dev" src="https://img.shields.io/badge/Website-nicholas.misawo.dev-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+<a href="https://nicholas.misawo.ai/">
+  <img alt="Website: nicholas.misawo.ai" src="https://img.shields.io/badge/Website-nicholas.misawo.ai-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/nicholasmisawo">
   <img alt="LinkedIn: nicholasmisawo" src="https://img.shields.io/badge/LinkedIn-nicholasmisawo-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
-<a href="https://nicholas.misawo.dev/">
+<a href="https://nicholas.misawo.ai/#credentials">
   <img alt="Credentials" src="https://img.shields.io/badge/Credentials-View_all-0A66C2?style=for-the-badge&logo=credly&logoColor=white" />
 </a>
 </p>
@@ -29,7 +29,7 @@ I turn complex business and regulatory requirements into secure, production-read
 - 🛡️ Governance, security & responsible AI by design
 - 📊 Prudential & financial risk management
 
-More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://nicholas.misawo.dev/)**
+More about my work, writing, and projects 👉 **[nicholas.misawo.ai](https://nicholas.misawo.ai/)**
 
 ---
 
