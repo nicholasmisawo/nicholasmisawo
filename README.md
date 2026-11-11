@@ -51,6 +51,17 @@ More about my work, writing, and projects 👉 **[nicholas.misawo.dev](https://n
 <img alt="dlt" src="https://img.shields.io/badge/dlt-C6D300?style=for-the-badge&logoColor=white" />
 <img alt="dbt" src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
 
-**Machine Learning & AI**<br />
-<img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+**Machine Learning & MLOps**<br />
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logoColor=white" />
+<img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
+
+**Artificial Intelligence & LLMOps**<br />
+<img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-412991?style=for-the-badge&logoColor=white" />
+<img alt="Vector Search" src="https://img.shields.io/badge/Vector_Search-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img alt="UC Functions" src="https://img.shields.io/badge/UC_Functions-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
+<img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
+<img alt="Agent Skills" src="https://img.shields.io/badge/Agent_Skills-412991?style=for-the-badge&logoColor=white" />
+<img alt="MLflow" src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
