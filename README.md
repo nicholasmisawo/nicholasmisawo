@@ -24,7 +24,7 @@ Context Engineer • Generative AI Engineer • Machine Learning Engineer
 
 ### 👨‍💻 About Me
 
-I'm an Applied AI/ML Data Scientist with 12+ years in financial regulation, central banking and insurance, building governed analytics & AI systems for regulated environments.
+I'm an Applied AI/ML Data Scientist with 12+ years in insurance, central banking and financial regulation, building governed analytics & AI systems for regulated environments.
 
 I turn complex business and regulatory requirements into secure, production-ready solutions that improve decision-making and deliver measurable business value.
 
