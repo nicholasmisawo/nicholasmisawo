@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm Nicholas Misawo, RAI</h1>
+<h1 align="center">Hi 👋, I'm Nicholas Misawo, MSc, RAI</h1>
 
 <p align="center">
 Applied AI/ML Data Scientist
+</p>
+
+<p align="center">
+Context Engineer • Generative AI Engineer • Machine Learning Engineer
 </p>
 
 <p align="center">
