@@ -28,11 +28,11 @@ I'm an Applied AI/ML Data Scientist with 12+ years in financial regulation, cent
 
 I turn complex business and regulatory requirements into secure, production-ready solutions that improve decision-making and deliver measurable business value.
 
+- 📊 Prudential & financial risk management
 - 🤖 Generative & agentic AI, context engineering and LLMOps
 - ⚙️ Machine learning & MLOps
 - 🗄️ Modern data & analytics engineering
 - 🛡️ Governance, security & responsible AI by design
-- 📊 Prudential & financial risk management
 
 More about my work, writing, and projects 👉 **[nicholas.misawo.ai](https://nicholas.misawo.ai/)**
 
