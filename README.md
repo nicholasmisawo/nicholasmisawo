@@ -73,7 +73,7 @@ More about my work, writing, and projects 👉 **[portfolio](https://www.nichola
 
 ---
 
-### 📊 GitHub Stats
+<!-- ### 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
@@ -82,4 +82,4 @@ More about my work, writing, and projects 👉 **[portfolio](https://www.nichola
       <img alt="Nicholas Misawo's GitHub stats" src="https://github-stats-extended.vercel.app/api?username=nicholasmisawo&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&hide=stars,issues,contribs&show=contributions,prs_merged,prs_merged_percentage&theme=light_github" />
     </picture>
   </a>
-</p>
+</p> -->
