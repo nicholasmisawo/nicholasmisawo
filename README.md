@@ -34,7 +34,7 @@ I turn complex business and regulatory requirements into secure, production-read
 - 🗄️ Modern data & analytics engineering
 - 🛡️ Governance, security & responsible AI by design
 
-More about my work, writing, and projects 👉 **[www.nicholas.misawo.ai](https://www.nicholas.misawo.ai/)**
+More about my work, writing, and projects 👉 **[portfolio](https://www.nicholas.misawo.ai/portfolio)**
 
 ---
 
