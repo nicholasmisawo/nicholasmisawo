@@ -52,9 +52,9 @@ More about my work, writing, and projects 👉 **[portfolio](https://www.nichola
 **Data Platform & Governance**<br />
 <img alt="Microsoft Fabric" src="https://img.shields.io/badge/Microsoft_Fabric-24292F?style=for-the-badge&logo=microsoft&logoColor=white" />
 <img alt="Databricks" src="https://img.shields.io/badge/Databricks-24292F?style=for-the-badge&logo=databricks&logoColor=white" />
-<img alt="Unity Catalog" src="https://img.shields.io/badge/Unity_Catalog-24292F?style=for-the-badge&logo=databricks&logoColor=white" />
 <img alt="dlt" src="https://img.shields.io/badge/dlt-24292F?style=for-the-badge&logoColor=white" />
 <img alt="dbt" src="https://img.shields.io/badge/dbt-24292F?style=for-the-badge&logo=dbt&logoColor=white" />
+<img alt="Unity Catalog" src="https://img.shields.io/badge/Unity_Catalog-24292F?style=for-the-badge&logo=databricks&logoColor=white" />
 
 **Machine Learning & MLOps**<br />
 <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-24292F?style=for-the-badge&logo=scikitlearn&logoColor=white" />
@@ -64,8 +64,8 @@ More about my work, writing, and projects 👉 **[portfolio](https://www.nichola
 <img alt="MLflow" src="https://img.shields.io/badge/MLflow-24292F?style=for-the-badge&logo=mlflow&logoColor=white" />
 
 **Artificial Intelligence & LLMOps**<br />
-<img alt="Embeddings" src="https://img.shields.io/badge/Embeddings-24292F?style=for-the-badge&logoColor=white" />
-<img alt="Vector Search" src="https://img.shields.io/badge/Vector_Search-24292F?style=for-the-badge&logo=databricks&logoColor=white" />
+<img alt="RAG" src="https://img.shields.io/badge/RAG-24292F?style=for-the-badge&logoColor=white" />
+<img alt="Text-to-SQL" src="https://img.shields.io/badge/Text--to--SQL-24292F?style=for-the-badge&logoColor=white" />
 <img alt="UC Functions" src="https://img.shields.io/badge/UC_Functions-24292F?style=for-the-badge&logo=databricks&logoColor=white" />
 <img alt="MCP" src="https://img.shields.io/badge/MCP-24292F?style=for-the-badge&logo=modelcontextprotocol&logoColor=white" />
 <img alt="Agent Skills" src="https://img.shields.io/badge/Agent_Skills-24292F?style=for-the-badge&logoColor=white" />
